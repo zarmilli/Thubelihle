@@ -181,7 +181,7 @@ export default function Home() {
             As a passionate and driven software developer, I bring creativity, adaptability, and a strong problem-solving mindset to every project. My commitment to continuous learning and delivering high-quality solutions makes me a valuable asset to any team. I thrive in collaborative environments and am dedicated to helping companies achieve their goals through innovative technology.
           </p>
           <a
-            href="/public/ThubeResume.pdf"
+            href="/ThubeResume.pdf"
             download
             className="mt-8 px-6 py-3 bg-black text-white rounded-lg font-semibold shadow hover:bg-neutral-800 transition z-30 relative"
           >
